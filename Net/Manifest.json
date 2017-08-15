@@ -1,0 +1,53 @@
+{
+  "$schema": "https://gallery.azure.com/schemas/2014-09-01/manifest.json#",
+  "name": "KenticoCloudSampleMvc",
+  "publisher": "Kentico",
+  "version": "1.0.0",
+  "displayName": "ms-resource:displayName",
+  "publisherDisplayName": "ms-resource:publisherDisplayName",
+  "publisherLegalName": "ms-resource:publisherDisplayName",
+  "summary": "ms-resource:summary",
+  "longSummary": "ms-resource:summary",
+  "description": "ms-resource:description",
+  "uiDefinition": {
+    "path": "UIDefinition.json"
+  },
+  "artifacts": [
+    {
+      "name": "website_NewHostingPlan-Default",
+      "type": "Template",
+      "path": "DeploymentTemplates\\Website_NewHostingPlan-Default.json",
+      "isDefault": true
+    }
+  ],
+  "icons": {
+    "small": "Icons\\Small.png",
+    "medium": "Icons\\Medium.png",
+    "wide": "Icons\\Wide.png",
+    "large": "Icons\\Large.png"
+  },
+  "links": [
+    {
+      "displayName": "ms-resource:authorLink",
+      "uri": "http://www.kenticocloud.com/"
+    },
+    {
+      "displayName": "ms-resource:learnMoreLink",
+      "uri": "https://help.kenticocloud.com/"
+    }
+  ],
+  "screenshots": [
+    {
+	  "home": "Screenshots\\Home.png",
+	  "product-catalog": "Screenshots\\ProductCatalog.png",
+	  "articles": "Screenshots\\Articles.png"
+	}
+  ],
+  "categories": [
+    "web",
+    "webRecommended",
+	"starterSite",
+	"blogCms",
+    "createv2"   
+  ]
+}

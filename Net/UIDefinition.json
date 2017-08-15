@@ -1,0 +1,20 @@
+{
+  "$schema": "https://gallery.azure.com/schemas/2015-02-12/UIDefinition.json",
+  "createDefinition": {
+    "createBlade": {
+      "name": "CreateBlade",
+      "extension": "WebsitesExtension"
+    },
+    "startboardPart": {
+      "name": "SingleWebsitePart",
+      "extension": "WebsitesExtension"
+    },
+    "startboardPartKeyId": "id"
+  },
+  "initialData": {
+     "gitHubDeployment": {
+            "repoUrl": "https://github.com/Kentico/cloud-sample-app-net",
+            "branch": "master"
+     }
+  }
+}
