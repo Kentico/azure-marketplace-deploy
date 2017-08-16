@@ -1,1 +1,0 @@
-Here, put a description of the sample app that will be displayed in Azure Marketplace.

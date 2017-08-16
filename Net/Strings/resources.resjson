@@ -1,8 +1,0 @@
-{
-  "displayName": "Kentico Cloud Sample Site - MVC",
-  "publisherDisplayName": "Kentico",
-  "summary": "An ASP.NET MVC sample site for Kentico Cloud. A single place for all your content. Display it via whatever channels (websites, mobile devices, mixed reality devices, presentation kiosks etc.), using whatever technology you wish. Personalize the customer experience based on their journeys.",
-  "description": "Avoid duplicating your efforts by having one content store. Create and collaborate on content with workflows, discussions related to pieces of content, user roles and other features. Structure content with content types, taxonomies, sitemap, multilingual support, and more. Organize images, videos and other data with asset libraries. Allow users to compose content out of modular content items. Develop sites and apps using real content. Use SDKs for various programming languages. Get content for your app via a fast CDN network. Track visitors' journeys and let your apps display tailored content.",
-  "authorLink": "Kentico Cloud",
-  "learnMoreLink": "Learn More"
-}
