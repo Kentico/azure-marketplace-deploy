@@ -12,9 +12,11 @@
     "startboardPartKeyId": "id"
   },
   "initialData": {
-     "gitHubDeployment": {
-            "repoUrl": "https://github.com/Kentico/cloud-sample-app-net",
-            "branch": "master"
-     }
+    "gitHubDeployment": {
+      "repoUrl": "https://github.com/Kentico/cloud-sample-app-net",
+      "branch": "master"
+    },
+    "mysql": false,
+    "sql":  false
   }
 }

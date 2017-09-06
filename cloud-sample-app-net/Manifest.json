@@ -37,17 +37,15 @@
     }
   ],
   "screenshots": [
-    {
-	  "home": "Screenshots\\Home.png",
-	  "product-catalog": "Screenshots\\ProductCatalog.png",
-	  "articles": "Screenshots\\Articles.png"
-	}
+    "Screenshots\\Home.png",
+    "Screenshots\\ProductCatalog.png",
+    "Screenshots\\Articles.png"
   ],
   "categories": [
     "web",
     "webRecommended",
-	"starterSite",
-	"blogCms",
-    "createv2"   
+    "starterSite",
+    "blogCms",
+    "createv2"
   ]
 }
