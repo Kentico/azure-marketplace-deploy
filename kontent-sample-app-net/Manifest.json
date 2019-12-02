@@ -1,6 +1,6 @@
 {
   "$schema": "https://gallery.azure.com/schemas/2014-09-01/manifest.json#",
-  "name": "KenticoCloudSampleMvc",
+  "name": "KenticoKontentSampleMvc",
   "publisher": "Kentico",
   "version": "1.0.0",
   "displayName": "ms-resource:displayName",
@@ -29,11 +29,11 @@
   "links": [
     {
       "displayName": "ms-resource:authorLink",
-      "uri": "http://www.kenticocloud.com/"
+      "uri": "https://kontent.ai/"
     },
     {
       "displayName": "ms-resource:learnMoreLink",
-      "uri": "https://help.kenticocloud.com/"
+      "uri": "https://docs.kontent.ai/"
     }
   ],
   "screenshots": [

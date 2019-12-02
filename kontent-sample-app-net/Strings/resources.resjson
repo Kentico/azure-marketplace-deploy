@@ -1,0 +1,8 @@
+{
+  "displayName": "Kentico Kontent Sample Website - ASP.NET MVC",
+  "publisherDisplayName": "Kentico",
+  "summary": "A sample website which uses Kentico Kontent for storing content and content personalization based on visitor tracking.",
+  "description": "Kentico Kontent is a cloud-first headless CMS that allows you to distribute content to any channel and device (websites, mobile devices, mixed reality devices, presentation kiosks etc.) through an API. Content is created and organized in a cloud-based content hub. Kentico Kontent supports versioning, revisions, workflows, user roles, multilingual content, media asset management, content types, sitemap, modular content items and more (see https://portal.productboard.com/kenticocloud/1-kentico-kontent-roadmap/tabs/4-under-consideration for current feature set). Content is served via REST, backed by a super-fast CDN. It means that the app or website can be developed using any programming language on any platform. SDKs for multiple languages are provided as open-source projects developed by Kentico in collaboration with a developer community.
+  "authorLink": "Kentico Kontent",
+  "learnMoreLink": "Learn More"
+}
