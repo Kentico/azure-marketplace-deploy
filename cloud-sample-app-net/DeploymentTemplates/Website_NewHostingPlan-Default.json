@@ -67,7 +67,7 @@
             "[resourceId('Microsoft.Web/Sites', parameters('siteName'))]"
           ],
           "properties": {
-            "RepoUrl": "https://github.com/Kentico/cloud-sample-app-net",
+            "RepoUrl": "https://github.com/Kentico/kontent-sample-app-net",
             "branch": "master",
             "IsManualIntegration": true
           }

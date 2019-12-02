@@ -13,7 +13,7 @@
   },
   "initialData": {
     "gitHubDeployment": {
-      "repoUrl": "https://github.com/Kentico/cloud-sample-app-net",
+      "repoUrl": "https://github.com/Kentico/kontent-sample-app-net",
       "branch": "master"
     },
     "mysql": false,
